@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "anastasiyaumka"
+      "X-Author": "anastasiyaumka",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
